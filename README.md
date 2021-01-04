@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Lucas Martinelli</h1>
+<h1>Hi there 👋,</h1>
 
 I'm passionate about technology, design and new challenges. 
 <br /><br />
-Currently moving to a carreer in web programming, I'm studying focused on Front-End development since 2019. My goal is to be FullStack (.NET Angular).
+Currently moving to a carreer in web programming, I'm focused on studying front-end development since 2019, gradually improving knowledge on back-end and REST APIs as well. My goal is to be FullStack (.NET Angular).
 <hr>
 
 - :rocket: Currently working on my first app projects, learning Angular, ASP.NET Core, Entity Framework Stack.<br /><br />
